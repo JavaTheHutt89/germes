@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/germesmodule/germesmodule.iml" filepath="$PROJECT_DIR$/germesmodule/germesmodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/germespersistence/germespersistence.iml" filepath="$PROJECT_DIR$/germespersistence/germespersistence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/germespresentation/germespresentation.iml" filepath="$PROJECT_DIR$/germespresentation/germespresentation.iml" />
+    </modules>
+  </component>
+</project>

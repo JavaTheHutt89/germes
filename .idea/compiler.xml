@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="germesmodule" />
+        <module name="germespersistence" />
+        <module name="germespresentation" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="germes" target="1.5" />
+      <module name="germesmodule" target="1.8" />
+      <module name="germespersistence" target="1.5" />
+      <module name="germespresentation" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
