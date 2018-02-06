@@ -9,6 +9,7 @@
         <module name="germesmodule" />
         <module name="germespersistence" />
         <module name="germespresentation" />
+        <module name="germesservice" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -16,6 +17,7 @@
       <module name="germesmodule" target="1.8" />
       <module name="germespersistence" target="1.5" />
       <module name="germespresentation" target="1.5" />
+      <module name="germesservice" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>

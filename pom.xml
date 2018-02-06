@@ -12,5 +12,6 @@
         <module>germesmodule</module>
         <module>germespersistence</module>
         <module>germespresentation</module>
+        <module>germesservice</module>
     </modules>
 </project>

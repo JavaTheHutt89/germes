@@ -1,5 +1,7 @@
 package org.yurovnik.germes.app.service.impl;
 
+
+
 import org.yurovnik.germes.app.infra.util.CommonUtil;
 import org.yurovnik.germes.app.model.entity.geography.City;
 import org.yurovnik.germes.app.service.GeographicService;
@@ -12,7 +14,7 @@ import java.util.List;
  * @author YurovnikMV
  */
 
-public class GeographicServiceImpl implements GeographicService{
+public class GeographicServiceImpl implements GeographicService {
     /**
      * Internal list of cities
      */
