@@ -11,12 +11,13 @@ import java.util.List;
 /**
  * Created by Администратор on 06.02.2018.
  */
-@Path("cities")
+
 /**
  * {@link CityResource} is REST web-service that handles city-related requests
  * @author Администратор
  *
  */
+@Path("cities")
 public class CityResource {
     @GET
     @Produces(MediaType.APPLICATION_JSON)
