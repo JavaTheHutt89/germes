@@ -17,7 +17,7 @@
       <module name="germesmodule" target="1.8" />
       <module name="germespersistence" target="1.5" />
       <module name="germespresentation" target="1.5" />
-      <module name="germesservice" target="1.6" />
+      <module name="germesservice" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
