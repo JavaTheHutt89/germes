@@ -15,9 +15,9 @@
     <bytecodeTargetLevel>
       <module name="germes" target="1.5" />
       <module name="germesmodule" target="1.8" />
-      <module name="germespersistence" target="1.5" />
-      <module name="germespresentation" target="1.5" />
-      <module name="germesservice" target="1.5" />
+      <module name="germespersistence" target="1.8" />
+      <module name="germespresentation" target="1.8" />
+      <module name="germesservice" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
