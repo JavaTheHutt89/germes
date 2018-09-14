@@ -7,11 +7,6 @@ import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 import java.util.List;
-
-/**
- * Created by Администратор on 06.02.2018.
- */
-
 /**
  * {@link CityResource} is REST web-service that handles city-related requests
  * @author Администратор
