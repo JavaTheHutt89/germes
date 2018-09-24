@@ -1,8 +1,12 @@
 package org.yurovnik.germes.app.service;
 
 import org.yurovnik.germes.app.model.entity.geography.City;
+import org.yurovnik.germes.app.model.entity.geography.Station;
+import org.yurovnik.germes.app.model.search.criteria.StationCriteria;
+import org.yurovnik.germes.app.model.search.criteria.range.RangeCriteria;
 
 import java.util.List;
+import java.util.Optional;
 
 /**
  * entry point to perform operations
@@ -22,4 +26,8 @@ public interface GeographicService {
      * @param city
      */
     void saveCity(City city);
+
+    Optional<City> findCityById(int id);
+
+    List<Station> searchStations(StationCriteria criteria, RangeCriteria rangeCriteria);
 }
