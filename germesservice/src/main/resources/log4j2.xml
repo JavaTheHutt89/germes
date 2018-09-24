@@ -9,7 +9,7 @@
         </Console>
     </Appenders>
     <Loggers>
-        <logger name="org.yurovnik.germes" level="DEBUG">
+        <logger name="org.yurovnik.germes" level="WARN">
             <AppenderRef ref="fileLog"/>
         </logger>
         <Root level="ERROR">
