@@ -19,4 +19,8 @@ public class ConfigurationException extends AppException{
     public ConfigurationException(String message, Throwable cause) {
         super(message, cause);
     }
+
+    public ConfigurationException(Throwable throwable) {
+        super(throwable);
+    }
 }
